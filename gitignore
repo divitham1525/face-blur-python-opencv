@@ -1,0 +1,49 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# VSCode editor files
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Images / outputs (if you generate outputs)
+output/
+*.png
+*.jpg
+*.jpeg
+
+# IDE files
+.idea/
+
+# Other OS files
+Thumbs.db
