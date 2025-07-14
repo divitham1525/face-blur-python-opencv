@@ -1,4 +1,4 @@
-# Blurry Faces
+# Face Blur System
 ## About
    This project detects faces in images and applies blur to them using Python and OpenCV.
    
