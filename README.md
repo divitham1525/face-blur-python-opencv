@@ -16,11 +16,13 @@
 MIT License
 
 ## Outputs
-<img src="[output.png](https://github.com/user-attachments/assets/627b1abd-5605-49fc-8a79-7ebf37970120)" width="200"/>
-<img src="[output.png](https://github.com/user-attachments/assets/627b1abd-5605-49fc-8a79-7ebf37970120)" width="200"/>
-[auto_blur_image](https://github.com/user-attachments/assets/627b1abd-5605-49fc-8a79-7ebf37970120)
-[auto_blur_video](https://github.com/user-attachments/assets/627b1abd-5605-49fc-8a79-7ebf37970120)
-[manual_blur_image](https://github.com/user-attachments/assets/627b1abd-5605-49fc-8a79-7ebf37970120)
+<img src="![auto_blur_image](https://github.com/user-attachments/assets/cf921850-e832-4462-8da0-d7f225cf0fb6)" width="400"/>
+![auto_blur_image](https://github.com/user-attachments/assets/cf921850-e832-4462-8da0-d7f225cf0fb6)   
+![auto_blur_video](https://github.com/user-attachments/assets/19349c6f-a885-4771-83c6-cf7cc54a5052)    
+![manual_blur_image](https://github.com/user-attachments/assets/dffdfe91-800f-4fa6-a2b1-4a0bf859bd9c)  
+
+
+
 
 
 
