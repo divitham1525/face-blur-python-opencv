@@ -1,13 +1,13 @@
-# 🕵️‍♀️ Blurry Faces
+# Blurry Faces
 A tool to blur faces or other regions in photos and videos 🕵️‍
 
-## 🙌 Available Codes
+## Available Codes
 1. [auto_blur_image](./src/auto_blur_image.py): Detects and blurs faces _(or objects)_ in a given image automatically due to a Tensorflow model
 2. [auto_blur_video](./src/auto_blur_video.py): Detects and blurs faces _(or objects)_ in a given video due to a Tensorflow model
 3. [manual_blur_image](./src/manual_blur_image.py): Blurs manually selected faces _(or objects)_
 
 
-## 🔧🔩 Usage 
+## Usage 
 1. Clone or download this repo
 2. Open [src](/src) folder in CMD
 3. Install required packages
@@ -39,11 +39,8 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 5. To see running options run _for all codes_:
    ```bash
    python manual_blur_image.py --help
-   ```
 
-6. TADAA 🎉 It's done 🤗
-
-## 🤗 Examples
+##  Examples
 
 #### For `auto_blur_image.py`:
 <img src="./outputs/auto_blur_image.jpg" width="600"  />
@@ -58,15 +55,14 @@ A tool to blur faces or other regions in photos and videos 🕵️‍
 #### For `manual_blur_image.py`:
 ![](./outputs/manual_blur_image.gif)
 
-## 📍 Note
+## Note
 I am using face detection model in [face_model](./face_model) folder that can detects faces but codes are valid for any `.pb` object detection model.
 
-## 📖 References 
+## References 
 * [Face Detection Model](https://github.com/yeephycho/tensorflow-face-detection)
 * [Original Video of Imitation Game Trailer](https://www.youtube.com/watch?v=j2jRs4EAvWM)
 
-## 🦸‍♀️ Project's Core Codes
-- [📍 TensorFlow Object Detection:](https://github.com/asmaamirkhan/TFObjectDetection) check out this repo in case that you want to use the core code for other purpose 
+## Project's Core Codes
+- [TensorFlow Object Detection:](https://github.com/asmaamirkhan/TFObjectDetection) check out this repo in case that you want to use the core code for other purpose 
 
-## 💼 Contact
-Find me on [LinkedIn](https://www.linkedin.com/in/asmaamirkhan/) and feel free to mail me, [Asmaa 🦋](mailto:asmaamirkhan.am@gmail.com)
+
